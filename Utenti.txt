@@ -1,0 +1,63 @@
+
+Nome: Cristiano
+Cognome: Spadaccini
+Mail: Zano96@gmail.com
+Username: ZanoXVII
+Password: ZanoRewind
+Data di nascita: 05/06/1996
+Telefono: 3342018691
+Sesso: M
+
+Nome: Marco
+Cognome: Filograsso
+Mail: SaviUltras90@gmail.com
+Username: Savi_Ultras
+Password: CallOfDuty
+Data di nascita: 10/02/1997
+Telefono: 3321055419
+Sesso: M
+
+Nome: Alessandro
+Cognome: Ferrara
+Mail: alesferry2000@gmail.com
+Username: ales_ferry
+Password: ProgettoProg3
+Data di nascita: 08/01/2000
+Telefono: 3332345018
+Sesso: M
+
+Nome: Matteo
+Cognome: Picarazzi
+Mail: Dread2@yahoo.it
+Username: Dread
+Password: Melagodo
+Data di nascita: 20/07/1993
+Telefono: 3310197821
+Sesso: M
+
+Nome: Laura
+Cognome: Formale
+Mail: Laura98@gmail.com
+Username: Laura_music
+Password: Cantante
+Data di nascita: 20/10/1998
+Telefono: 3791061539
+Sesso: F
+
+Nome: Federica
+Cognome: Capuano
+Mail: Fede_best@gmail.com
+Username: Fede97
+Password: Felicità00
+Data di nascita: 20/05/1997
+Telefono: 3344591056
+Sesso: F
+
+Nome: Ciro
+Cognome: Esposito
+Mail: Ciro10@gmail.com
+Username: Ciro_Esp0
+Password: ForzaNapoli
+Data di nascita: 10/06/1996
+Telefono: 3388194456
+Sesso: M
